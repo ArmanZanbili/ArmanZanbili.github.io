@@ -1,0 +1,20 @@
+
+{
+  "name": "یه سؤال کوچولو ❤️",
+  "short_name": "قربونت برم",
+  "description": "یه سؤال کوچولوی عاشقانه",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff0f5",
+  "theme_color": "#fff0f5",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
